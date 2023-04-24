@@ -99,7 +99,7 @@ typedef struct /* Ultrasonic Type */
 Ultrasonic_ScanTypeDef Ultrasonic_GetScanStatus(Ultrasonic_TypeDef *Ultrasonic);
 
 /*
- * Function: Ultrasonic_OBJStatusTypeDef
+ * Function: Ultrasonic_GetObjectStatus
  * ---------------------------
  * Get scan status of ultrasonic
  *
